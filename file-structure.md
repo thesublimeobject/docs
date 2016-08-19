@@ -116,7 +116,7 @@ let's say that you have an image that will probably be about the same size as th
 3. select "svg" => `save...`
 4. All of the setting which are preselected should almost always be fine, except for one, which is under "Advanced Options." The property *CSS Elements* needs to be set to __style attributes__. This is *extremely important*.
 
-## Videos
+# Videos
 
 all videos should be compressed. I suggest downloading [Miro](https://www.macupdate.com/app/mac/33832/miro-video-converter), which is what I use, unless you know of a better option.
 
