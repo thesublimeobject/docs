@@ -96,14 +96,13 @@ let's say that you have an image that will probably be about the same size as th
 1. [Download](https://github.com/pornel/pngquant-photoshop)
 2. unzip
 3. open terminal (cmd + space => terminal)
-4. `cd /`
-5. `cd "/Volumes/Macintosh HD/Applications"`
-6. Open photoshop, and check which version you're running: Photoshop CC... => About Photoshop CC (I'm running 2015.5
-7. `cd "Photoshop CC 2015.5"`
-8. `mkdir Plug-ins && cd Plug-ins`
-9. `open .` (this will open a Finder window in this directory)
-10. copy the pngquant.plugin file from the zip into this directory.
-11. restart photoshop
+4. `cd "/Volumes/Macintosh HD/Applications"`
+5. Open photoshop, and check which version you're running: Photoshop CC... => About Photoshop CC (I'm running 2015.5
+6. `cd "Photoshop CC 2015.5"`
+7. `mkdir Plug-ins && cd Plug-ins`
+8. `open .` (this will open a Finder window in this directory)
+9. copy the pngquant.plugin file from the zip into this directory.
+10. restart photoshop
 
 ### saving PNGs
 1. save as...
